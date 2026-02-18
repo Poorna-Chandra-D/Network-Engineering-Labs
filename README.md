@@ -1,4 +1,4 @@
-# 🌐 Network Engineering Labs
+
 
 [![License](https://img.shields.io/badge/License-Apache%202.0-blue.svg)](LICENSE)
 [![Cisco Packet Tracer](https://img.shields.io/badge/Cisco-Packet%20Tracer-1BA0D7?logo=cisco)](https://www.netacad.com/courses/packet-tracer)
